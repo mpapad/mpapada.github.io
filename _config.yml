@@ -20,11 +20,14 @@ description: Homepage of Mike Papadakis
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+Publications: "Publications"
+Funded Projects: "Projects"
+Peer Esteem: "Esteem"
+Mutation Testing: "Mutation"
+Tools and Data Sets: "Tools"
+Students: "Students"
+Contact: "Contact"
+PhD&RA Positions: "Positions"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
