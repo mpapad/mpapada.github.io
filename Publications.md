@@ -4,17 +4,17 @@ title: Publications
 ---
 
 ## 2021
-Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. **“Killing Stubborn Mutants with Symbolic Execution”**, in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
+Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. [“Killing Stubborn Mutants with Symbolic Execution”](pdfs/TOSEM2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
 
-Wei Ma, Mike Papadakis, Anestis Tsakmalis, Maxime Cordy, Yves Le Traon. [“Test Selection for Deep Learning Systems”](https://mpapad.github.io/pdfs/ff.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 13:1-13:22.
+Wei Ma, Mike Papadakis, Anestis Tsakmalis, Maxime Cordy, Yves Le Traon. [“Test Selection for Deep Learning Systems”](pdfs/TOSEMB2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 13:1-13:22.
 
-Wei Ma, Thierry Titcheu Chekam, Mike Papadakis, Mark Harman. “MuDelta: Delta-Oriented Mutation Testing at Commit Time”, in the 43rd International Conference on Software Engineering (ICSE), 2021, pp. 897-909.
+Wei Ma, Thierry Titcheu Chekam, Mike Papadakis, Mark Harman. [“MuDelta: Delta-Oriented Mutation Testing at Commit Time”](pdfs/ICSE2021.pdf), in the 43rd International Conference on Software Engineering (ICSE), 2021, pp. 897-909.
 
-Guillaume Haben, Sarra Habchi, Mike Papadakis, Maxime Cordy, Le Traon Yves. “A Replication Study on the Usability of Code Vocabulary in Predicting Flaky Tests”, in the 18th International Conference on Mining Software Repositories (MSR), 2021, pp. 219-229.
+Guillaume Haben, Sarra Habchi, Mike Papadakis, Maxime Cordy, Le Traon Yves. [“A Replication Study on the Usability of Code Vocabulary in Predicting Flaky Tests”](pdfs/MSR2021.pdf), in the 18th International Conference on Mining Software Repositories (MSR), 2021, pp. 219-229.
 
-Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. “Towards Exploring the Limitations of Active Learning: An Empirical Study”, in the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp...
+Qiang Hu, Yuejun Guo, Maxime Cordy, Xiaofei Xie, Wei Ma, Mike Papadakis, Yves Le Traon. [“Towards Exploring the Limitations of Active Learning: An Empirical Study”](pdfs/ASE2021.pdf), in the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp...
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. “Evasion Attack STeganography: Turning Vulnerability Of Machine Learning ToAdversarial Attacks Into A Real-world Application”, 2nd Workshop on Adversarial Robustness In the Real World, ICCV Workshop, 2021.
+Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack STeganography: Turning Vulnerability Of Machine Learning ToAdversarial Attacks Into A Real-world Application”](pdfs/EAST_ICCV2021.pdf), 2nd Workshop on Adversarial Robustness In the Real World, ICCV Workshop, 2021.
 
 ## 2020
 
