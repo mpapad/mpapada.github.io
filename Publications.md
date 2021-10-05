@@ -127,19 +127,19 @@ Francisco Carlos M. Souza, Mike Papadakis, Yves Le Traon and Marcio Eduardo Dela
 
 ## 2015
 
-Marinos Kintis, Mike Papadakis, and Nicos Malevris, “Employing Second Order Mutation for Isolating First Order Equivalent Mutants”, in Software Testing, Verification and Reliability Journal (STVR), vol. 25, no. 5-7, 2015, pp. 508-535.
+Marinos Kintis, Mike Papadakis, and Nicos Malevris, [“Employing Second Order Mutation for Isolating First Order Equivalent Mutants”](pdfs/STVR2015-EQ.pdf), in Software Testing, Verification and Reliability Journal (STVR), vol. 25, no. 5-7, 2015, pp. 508-535.
 
-Mike Papadakis and Yves Le Traon, “Metallaxis-FL: Mutation-based Fault Localization”, in Software Testing, Verification and Reliability Journal (STVR), vol. 25, no. 5-7, 2015, pp. 605-628.
+Mike Papadakis and Yves Le Traon, [“Metallaxis-FL: Mutation-based Fault Localization”](pdfs/STVR2015.pdf), in Software Testing, Verification and Reliability Journal (STVR), vol. 25, no. 5-7, 2015, pp. 605-628.
 
-Antonia Bertolino, Said Daoudagh, Donia El Kateb, Christopher Henard, Yves Le Traon, Francesca Lonetti, Eda Marchetti, Tejeddine Mouelhi, and Mike Papadakis, “Similarity Testing for Access-Control”, in Information & Software Technology journal (IST), vol. 58, 2015, pp. 355372.
+Antonia Bertolino, Said Daoudagh, Donia El Kateb, Christopher Henard, Yves Le Traon, Francesca Lonetti, Eda Marchetti, Tejeddine Mouelhi, and Mike Papadakis, [“Similarity Testing for Access-Control”](pdfs/ist2015.pdf), in Information & Software Technology journal (IST), vol. 58, 2015, pp. 355372.
 
-Mike Papadakis, Yue Jia, Mark Harman, and Yves Le Traon. “Trivial Compiler Equivalence: A Large Scale Empirical Study of a Simple, Fast and Effective Equivalent Mutant Detection Technique”, in the 37th International Conference on Software Engineering (ICSE), 2015, pp. 936-946.
+Mike Papadakis, Yue Jia, Mark Harman, and Yves Le Traon. [“Trivial Compiler Equivalence: A Large Scale Empirical Study of a Simple, Fast and Effective Equivalent Mutant Detection Technique”](pdfs/ICSE2015B.pdf), in the 37th International Conference on Software Engineering (ICSE), 2015, pp. 936-946.
 
-Christopher Henard, Mike Papadakis, Mark Harman, and Yves Le Traon. “Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines”, in the 37th International Conference on Software Engineering (ICSE), 2015, pp. 517-528.
+Christopher Henard, Mike Papadakis, Mark Harman, and Yves Le Traon. [“Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines”](pdfs/ICSE2015A.pdf), in the 37th International Conference on Software Engineering (ICSE), 2015, pp. 517-528.
 
-Sebastien Bardin, Mickal Delahaye, Nikolai Kosmatov, Robin David, Mike Papadakis, Yves Le Traon and Jean-Yves Marion. “Sound and Quasi-Complete Detection of Infeasible Test Requirements”, in the 8th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2015, pp. 1-10.
+Sebastien Bardin, Mickal Delahaye, Nikolai Kosmatov, Robin David, Mike Papadakis, Yves Le Traon and Jean-Yves Marion. [“Sound and Quasi-Complete Detection of Infeasible Test Requirements”](pdfs/ICST2015.pdf), in the 8th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2015, pp. 1-10.
 
-Christopher Henard, Mike Papadakis, Yves Le Traon. “Flattening or not of the combinatorial interaction testing models?”, in ICST Workshops 2015, pp. 1-4.
+Christopher Henard, Mike Papadakis, Yves Le Traon. [“Flattening or not of the combinatorial interaction testing models?”](pdfs/CIT2015.pdf), in ICST Workshops 2015, pp. 1-4.
 
 ## 2014
 
