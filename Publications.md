@@ -32,64 +32,64 @@ Maxime Cordy, Mike Papadakis and Axel Legay, [“Statistical Model Checking for 
 
 Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“FeatureNET: Diversity-driven Generation of Deep Learning Models”](pdfs/ICSE-Tool2020.pdf), in the 42nd International Conference on Software Engineering (ICSE), 2020, pp. 41-44.
 
+Thierry Titcheu Chekam, Mike Papadakis and Yves Le Traon, [“Muteria: An Extensible and Flexible Multi-Criteria Software Testing Framework”](pdfs/AST2020.pdf), in the 1st IEEE/ACM International Conference on Automation of Software Test (AST), 2020, pp. 97-100.
+
 ## 2019
 Mike Papadakis, Marinos Kintis, Jie Zhang, Yue Jia, Yves Le Traon and Mark Harman, [“Mutation Testing Advances: An Analysis and Survey”](pdfs/MutationSurvey2019.pdf), in Advances in Computers, Elsevier, Vol. 112, pp. 275-378, doi https://doi.org/10.1016/bs.adcom.2018.03.015, 2019.
 
-Donghwan Shin, Shin Yoo, Mike Papadakis, Doo-Hwan Bae. “Empirical Evaluation of Mutation-based Test Case Prioritization Techniques”, in Software Testing, Verification and Reliability Journal (STVR), vol. 29, 2019, pp. e1695.
+Donghwan Shin, Shin Yoo, Mike Papadakis, Doo-Hwan Bae. [“Empirical Evaluation of Mutation-based Test Case Prioritization Techniques”](pdfs/.pdf), in Software Testing, Verification and Reliability Journal (STVR), vol. 29, 2019, pp. e1695.
 
-Thierry Titcheu Chekam, Mike Papadakis, and Yves Le Traon. “Mart: A Mutant Generation Tool for LLVM”, in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE)-Demo, 2019, pp. 1080-1084.
+Thierry Titcheu Chekam, Mike Papadakis, and Yves Le Traon. [“Mart: A Mutant Generation Tool for LLVM”](pdfs/.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE)-Demo, 2019, pp. 1080-1084.
 
-Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. “Ukwikora: Continuous inspection for Keyword-Driven Testing”, in the International Symposium on Software Testing and Analysis (ISSTA)-Demo, 2019, pp. 402-405.
+Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“Ukwikora: Continuous inspection for Keyword-Driven Testing”](pdfs/.pdf), in the International Symposium on Software Testing and Analysis (ISSTA)-Demo, 2019, pp. 402-405.
 
-Thierry Titcheu Chekam, Mike Papadakis and Yves Le Traon, “Muteria: An Extensible and Flexible Multi-Criteria Software Testing Framework”, in the 1st IEEE/ACM International Conference on Automation of Software Test (AST), 2020, pp. 97-100.
+Matthieu Jimenez, Renaud Rwemalika, Mike Papadakis, Federica Sarro, Yves Le Traon and Mark Harman, [“The importance of accounting for real-world labelling when predicting software vulnerabilities”](pdfs/.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2019, pp. 695-705.
 
-Matthieu Jimenez, Renaud Rwemalika, Mike Papadakis, Federica Sarro, Yves Le Traon and Mark Harman, “The importance of accounting for real-world labelling when predicting software vulnerabilities”, in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2019, pp. 695-705.
+Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“An industrial study on the differences between pre-release and post-release bugs”, in 35th IEEE International Conference on Software Maintenance and Evolution (ICSME)](pdfs/.pdf), 2019, pp. 92-102.
 
-Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. “An industrial study on the differences between pre-release and post-release bugs”, in 35th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 92-102.
+Claire Leong, Abhayendra Singh, Mike Papadakis, Yves Le Traon and John Micco. [“Assessing Transition-based Test Selection Algorithms at Google”](pdfs/.pdf), in the 41st International Conference on Software Engineering (ICSE) SEIP track, 2019, pp. 101-110.
 
-Claire Leong, Abhayendra Singh, Mike Papadakis, Yves Le Traon and John Micco. “Assessing Transition-based Test Selection Algorithms at Google”, in the 41st International Conference on Software Engineering (ICSE) SEIP track, 2019, pp. 101-110.
+Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. [“Automated search for configurations of convolutional neural network architectures”](pdfs/.pdf), in 23rd ACM International Conference on Software Product Lines (SPLC), 2019, pp. 21:1-21:12.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis and Yves Le Traon. “Automated search for configurations of convolutional neural network architectures”, in 23rd ACM International Conference on Software Product Lines (SPLC), 2019, pp. 21:1-21:12.
+Xavier Schmitt, Sylvain Kubler, Jeremy Robert, Mike Papadakis, Yves Le Traon. [“A Replicable Comparison Study of NER Software: StanfordNLP, NLTK, OpenNLP, SpaCy, Gate”](pdfs/.pdf), in Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS), 2019, pp. 338-343.
 
-Xavier Schmitt, Sylvain Kubler, Jeremy Robert, Mike Papadakis, Yves Le Traon. “A Replicable Comparison Study of NER Software: StanfordNLP, NLTK, OpenNLP, SpaCy, Gate”, in Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS), 2019, pp. 338-343.
+Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Semantic Fuzzing with Zest”](pdfs/.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 329-340.
 
-Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. “Semantic Fuzzing with Zest”, in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 329-340.
+Maxime Cordy, Steve Muller, Mike Papadakis and Yves Le Traon. [“Search-based Test and Improvement of Machine-Learning-Based Anomaly Detection Systems”](pdfs/.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 158-168.
 
-Maxime Cordy, Steve Muller, Mike Papadakis and Yves Le Traon. “Search-based Test and Improvement of Machine-Learning-Based Anomaly Detection Systems”, in the International Symposium on Software Testing and Analysis (ISSTA), 2019, pp. 158-168.
+Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“On the Evolution of Keyword-Driven Test Suites”](pdfs/.pdf), in the 12th International Conference on Software Testing (ICST), 2019, pp. 335-345.
 
-Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. “On the Evolution of Keyword-Driven Test Suites”, in the 12th International Conference on Software Testing (ICST), 2019, pp. 335-345.
-
-Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. “Validity fuzzing and parametric generators for effective random testing”, in the 41st International Conference on Software Engineering (ICSE), 2019, pp. 266-267.
+Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Validity fuzzing and parametric generators for effective random testing”](pdfs/.pdf), in the 41st International Conference on Software Engineering (ICSE), 2019, pp. 266-267.
 
 ## 2018
 
-Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbens and Patrick Heymans. “Model-based mutant equivalence detection using automata language equivalence and simulations”, in Journal of Systems and Software (JSS), vol. 141, 2018, pp. 1-15.
+Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbens and Patrick Heymans. [“Model-based mutant equivalence detection using automata language equivalence and simulations”](pdfs/JSS2018.pdf), in Journal of Systems and Software (JSS), vol. 141, 2018, pp. 1-15.
 
-Jabier Martinez, Tewfik Ziadi, Mike Papadakis, Tegawende F. Bissyande, Jacques Klein, Yves le Traon, “Benchmark for feature location techniques using Eclipse variants”, in Information & software Technology Journal (IST), vol. 104, 2018, pp. 46-59.
+Jabier Martinez, Tewfik Ziadi, Mike Papadakis, Tegawende F. Bissyande, Jacques Klein, Yves le Traon, [“Benchmark for feature location techniques using Eclipse variants”](pdfs/IST2018.pdf), in Information & software Technology Journal (IST), vol. 104, 2018, pp. 46-59.
 
 Marinos Kintis, Mike Papadakis, Andreas Papadopoulos, Evangelos Valvis, Nicos Malevris and Yves Le Traon. [“How Effective Mutation Testing Tools Are? An Empirical Analysis of Java Mutation Testing Tools with Manual Analysis and Real Faults”](/pdfs/EMSE2018.pdf), in Empirical Software Engineering Journal (EMSE), vol. 23, no. 4, 2018, pp. 2426-2463.
 
 Marinos Kintis, Mike Papadakis, Yue Jia, Nicos Malevris, Yves Le Traon, and Mark Harman, [“Detecting Trivial Mutant Equivalences via Compiler Optimisations”](/pdfs/TSE2018.pdf), in IEEE Transactions on Software Engineering Journal (TSE), vol. 44, no. 4, 2018, pp. 308-333.
 
-Mike Papadakis, Donghwan Shin, Shin Yoo and Doo-Hwan Bae, “Are Mutation Scores Correlated with Real Fault Detection? A Large Scale Empirical study on the Relationship Between Mutants and Real Faults”, in the 40th International Conference on Software Engineering (ICSE), 2018, pp. 537-548.
+Mike Papadakis, Donghwan Shin, Shin Yoo and Doo-Hwan Bae, [“Are Mutation Scores Correlated with Real Fault Detection? A Large Scale Empirical study on the Relationship Between Mutants and Real Faults”](pdfs/ICSE2018.pdf), in the 40th International Conference on Software Engineering (ICSE), 2018, pp. 537-548.
 
-Michael Marcozzi, Sebastien Bardin, Nikolai Kosmatov, Mike Papadakis, Virgile Prevosto and Loc Correnson, “Time to Clean your Test Objectives”, in the 40th International Conference on Software Engineering (ICSE), 2018, pp. 456-467.
+Michael Marcozzi, Sebastien Bardin, Nikolai Kosmatov, Mike Papadakis, Virgile Prevosto and Loc Correnson, [“Time to Clean your Test Objectives”](pdfs/ICSE2018B.pdf), in the 40th International Conference on Software Engineering (ICSE), 2018, pp. 456-467.
 
-Mike Papadakis, Titcheu Chekam Thierry and Yves Le Traon, “Mutant Quality Indicators”, in the 13th International Workshop on Mutation Analysis (MUTATION), ICST Workshops 2018, pp. 32-39.
+Mike Papadakis, Titcheu Chekam Thierry and Yves Le Traon, [“Mutant Quality Indicators”](pdfs/Mutation2018.pdf), in the 13th International Workshop on Mutation Analysis (MUTATION), ICST Workshops 2018, pp. 32-39.
 
-Matthieu Jimenez, Maxime Cordy, Yves Le Traon and Mike Papadakis. “On the Impact of Tokenizer and Parameters on N-Gram Based Code Analysis”, in the International Conference on Software Maintenance and Evolution (ICSME), 2018, pp. 437-448.
+Matthieu Jimenez, Maxime Cordy, Yves Le Traon and Mike Papadakis. [“On the Impact of Tokenizer and Parameters on N-Gram Based Code Analysis”](pdfs/ICSME2018.pdf), in the International Conference on Software Maintenance and Evolution (ICSME), 2018, pp. 437-448.
 
-Matthieu Jimenez, Titcheu Chekam Thierry, Marinos Kintis, Maxime Cordy, Mike Papadakis, Yves Le Traon and Mark Harman. “Are mutants really natural? A study on how ‘naturalness’ helps mutant selection”, in the International Symposium on Empirical Software Engineering and Measurement (ESEM) 2018, pp. 3:1-3:10.
+Matthieu Jimenez, Titcheu Chekam Thierry, Marinos Kintis, Maxime Cordy, Mike Papadakis, Yves Le Traon and Mark Harman. [“Are mutants really natural? A study on how ‘naturalness’ helps mutant selection”](pdfs/ESEM2018.pdf), in the International Symposium on Empirical Software Engineering and Measurement (ESEM) 2018, pp. 3:1-3:10.
 
-Florian Delavernhe, Takfarinas Saber, Mike Papadakis and Anthony Ventresque. “A Hybrid Algorithm for Multi-objective Test Case Selection in Regression Testing”, in the IEEE Congress on Evolutionary Computation (CEC) 2018, pp. 1-8.
+Florian Delavernhe, Takfarinas Saber, Mike Papadakis and Anthony Ventresque. [“A Hybrid Algorithm for Multi-objective Test Case Selection in Regression Testing”](pdfs/CEC2018.pdf), in the IEEE Congress on Evolutionary Computation (CEC) 2018, pp. 1-8.
 
-Matthieu Jimenez, Yves Le Traon and Mike Papadakis. “Enabling the Continous Analysis of Security Vulnerabilities with VulData7”, in the 18th IEEE International Working Conference on Source Code Analysis and Manipulation, (SCAM), (Engineering Track) 2018, pp. 56-61.
+Matthieu Jimenez, Yves Le Traon and Mike Papadakis. [“Enabling the Continous Analysis of Security Vulnerabilities with VulData7”](pdfs/SCAM2018.pdf), in the 18th IEEE International Working Conference on Source Code Analysis and Manipulation, (SCAM), (Engineering Track) 2018, pp. 56-61.
 
-Matthieu Jimenez, Maxime Cordy, Yves Le Traon and Mike Papadakis. “TUNA: TUning Naturalness-based Analysis”, in the International Conference on Software Maintenance and Evolution (ICSME), (Artifacts) 2018, pp. 715.
+Matthieu Jimenez, Maxime Cordy, Yves Le Traon and Mike Papadakis. [“TUNA: TUning Naturalness-based Analysis”](pdfs/ICSME2018-Artifact.pdf), in the International Conference on Software Maintenance and Evolution (ICSME), (Artifacts) 2018, pp. 715.
 
-Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande and Yves Le Traon. “Poster: Predicting the Fault Revelation Utility of Mutants”, in the 40th International Conference on Software Engineering (ICSE), 2018, pp. 408-409.
+Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande and Yves Le Traon. [“Poster: Predicting the Fault Revelation Utility of Mutants”](pdfs/ICSE2018-Poster.pdf), in the 40th International Conference on Software Engineering (ICSE), 2018, pp. 408-409.
 
-Renaud Rwemalika, Marinos Kintis, Mike Papadakis and Yves Le Traon. “Can we automate away the main challenges of end-to-end testing?”, in the 17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), 2018.
+Renaud Rwemalika, Marinos Kintis, Mike Papadakis and Yves Le Traon. [“Can we automate away the main challenges of end-to-end testing?”](pdfs/BENEVOL2018.pdf), in the 17th Belgium-Netherlands Software Evolution Workshop (BENEVOL), 2018.
 
 ## 2017
 
