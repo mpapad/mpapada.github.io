@@ -4,9 +4,9 @@ title: Publications
 ---
 
 ## 2021
-Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. “Killing Stubborn Mutants with Symbolic Execution”, in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
+Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. **“Killing Stubborn Mutants with Symbolic Execution”**, in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
 
-Wei Ma, Mike Papadakis, Anestis Tsakmalis, Maxime Cordy, Yves Le Traon. “Test Selection for Deep Learning Systems”, in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 13:1-13:22.
+Wei Ma, Mike Papadakis, Anestis Tsakmalis, Maxime Cordy, Yves Le Traon. [“Test Selection for Deep Learning Systems”](https://github.com/mpapad/pdfs/ff.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 13:1-13:22.
 
 Wei Ma, Thierry Titcheu Chekam, Mike Papadakis, Mark Harman. “MuDelta: Delta-Oriented Mutation Testing at Commit Time”, in the 43rd International Conference on Software Engineering (ICSE), 2021, pp. 897-909.
 
