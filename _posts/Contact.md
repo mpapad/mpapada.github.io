@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Contact Info
 image: /img/hello_world.jpeg
 ---
 
