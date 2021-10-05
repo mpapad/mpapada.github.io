@@ -42,7 +42,9 @@ Duration: 3 years: from 01-01-2019 to 31/08/2022
 This is a Facebook research grant that supports our work related to the detection of system user interactive flaky test failures.
 
 ## CODEMATES: “COntinuous DEvelopment with Mutation Analysis and TESting”. Fonds National de la Researche Luxembourg - CORE.
-This is an FNR CORE (Junior) funding, supporting a PhD student and a PostDoc. This is a starting grant where I am the principal investigator (contributing for more than 50% of my time on it). The project is about designing generic and efficient mutation testing techniques for the continuous integration pipeline. The target is the creation of automatic techniques that are capable of detecting few and relevant test requirements for every committed code change. Duration: 3 years: from 1-9-2018 to 31-8-2021.
+This is an FNR CORE (Junior) funding, supporting a PhD student and a PostDoc. This is a starting grant where I am the principal investigator (contributing for more than 50% of my time on it). The project is about designing generic and efficient mutation testing techniques for the continuous integration pipeline. The target is the creation of automatic techniques that are capable of detecting few and relevant test requirements for every committed code change. 
+
+Duration: 3 years: from 1-9-2018 to 31-8-2021.
 
 
 ## LAIWYERS: “Law and AI: WaYs to Explore Robust Solutions”. University funded project. 
