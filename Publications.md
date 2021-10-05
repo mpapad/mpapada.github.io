@@ -157,26 +157,27 @@ Tewfik Ziadi, Christopher Henard, Mike Papadakis, Yves Le Traon and Mikal Ziane,
 
 Francisco Carlos Souza, Mike Papadakis, Vincius Durelli and Marcio Eduardo Delamaro. ”Techniques for Test Data Generation for Mutation Testing: A Systematic Mapping”, in the XVII Ibero-American Conference on Software Engineering (CIBSE), 2014, pp. 419-432.
 
-Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. “Multi-objective Test Generation for Software Product Lines”, in 17th ACM International Conference on Software Product Lines (SPLC), 2013, pp. 62-71.
-
 Christopher Henard, Mike Papadakis and Yves Le Traon. “MutaLog: a Tool for Mutating Logic Formulas”, in 7th International Conference on Software Testing, Verification and Validation Workshops (ICSTW), 2014, pp. 399-404.
 
 Xavier Devroey, Gilles Perrouin, Maxime Cordy, Mike Papadakis, Axel Legay, and Pierre-Yves Schobbens. “A Variability Perspective of Mutation Analysis”, in 22nd ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE), Visions and Challenges track, 2014, pp. 841-844.
 
 ## 2013
 
-Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. “Towards Automated Testing and Fixing of Re-engineered Feature Models”, in 35th International Conference on Software Engineering (ICSE ), New Ideas and Emerging Results track, 2013, pp. 1245-1248.
+Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. [“Multi-objective Test Generation for Software Product Lines”](pdfs/SPLC2013.pdf), in 17th ACM International Conference on Software Product Lines (SPLC), 2013, pp. 62-71.
 
-Mike Papadakis and Yves Le Traon, “Mutation Testing Strategies using Mutant Classification”, in 28th ACM Symposium On Applied Computing (SAC), 2013, pp. 1223-1229.
-Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. “Assessing software product line testing via model-based mutation: An application to similarity testing”, in the 9th Workshop on Advances in Model Based Testing (A-MOST), ICST Workshops 2013 pp. 188-197.
+Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. [“Towards Automated Testing and Fixing of Re-engineered Feature Models”](pdfs/icse13nier-id30-p-15773-preprint.pdf), in 35th International Conference on Software Engineering (ICSE), New Ideas and Emerging Results track, 2013, pp. 1245-1248.
 
-Mike Papadakis and Nicos Malevris. “Searching and generating test inputs for mutation testing”, in SpringerPlus Journal, vol. 2, 2013, pp. 121.
+Mike Papadakis and Yves Le Traon, [“Mutation Testing Strategies using Mutant Classification”](pdfs/Sac2013.pdf), in 28th ACM Symposium On Applied Computing (SAC), 2013, pp. 1223-1229.
 
-Phu H. Nguyen, Mike Papadakis and Iram Rubab. “Testing Delegation Policy via Mutation Analysis”, in the 8th International Workshop on Mutation Analysis (MUTATION), ICST Workshops 2013, pp. 34-42.
+Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. [“Assessing software product line testing via model-based mutation: An application to similarity testing”](pdfs/AMOST2013.pdf), in the 9th Workshop on Advances in Model Based Testing (A-MOST), ICST Workshops 2013 pp. 188-197.
 
-Mike Papadakis, Marcio Delamaro and Yves Le Traon, “Proteum/FL: a Mutation-based Fault Localization Tool”, in 13th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2013, pp. 85-90.
+Mike Papadakis and Nicos Malevris. [“Searching and generating test inputs for mutation testing”](https://springerplus.springeropen.com/track/pdf/10.1186/2193-1801-2-121.pdf), in SpringerPlus Journal, vol. 2, 2013, pp. 121.
 
-Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. “PLEDGE: A Product Line Editor and Test Generation Tool”, in 17th International Conference on Software Product Lines (SPLC) 2013, pp. 126-129.
+Phu H. Nguyen, Mike Papadakis and Iram Rubab. [“Testing Delegation Policy via Mutation Analysis”](pdfs/Mutation2013.pdf), in the 8th International Workshop on Mutation Analysis (MUTATION), ICST Workshops 2013, pp. 34-42.
+
+Mike Papadakis, Marcio Delamaro and Yves Le Traon, [“Proteum/FL: a Mutation-based Fault Localization Tool”](pdfs/ScamTool2013.pdf), in 13th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2013, pp. 85-90.
+
+Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. [“PLEDGE: A Product Line Editor and Test Generation Tool”](pdfs/splc2013Tool.pdf), in 17th International Conference on Software Product Lines (SPLC) 2013, pp. 126-129.
 
 ## 2012
 
@@ -216,7 +217,7 @@ Mike Papadakis and Nicos Malevris. [“Improving Evolutionary Test Data Generati
 
 
 ## Additional Material
-Further details about my work can be found in my DBLP and Google Scholar pages.    
+Further details about my work can be found in my [DBLP](https://dblp.org/pid/00/7677.html) and [Google Scholar](https://scholar.google.com/citations?user=4O3EolUAAAAJ) pages.    
 
 ## Disclaimer
 This page contains personal archived (pre-print versions) articles published by IEEE, ACM, Elsevier, Springer, Wiley and other publishers. Copyright and all rights therein are retained by authors or by other copyright holders. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
