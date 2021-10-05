@@ -23,11 +23,10 @@ navbar-links:
   Publications: "Publications"
   Funded Projects: "Projects"
   Peer Esteem: "Esteem"
-  Mutation Testing: "Mutation"
+  Mutation Testing: "https://mutationtesting.uni.lu/"
   Tools and Data Sets: "Tools"
   Students: "Students"
-  Contact: "Contact/"
-  PhD and RA Positions: "Positions"
+  Contact: "Contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
