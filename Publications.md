@@ -97,7 +97,7 @@ Li Li, Tegawende F. Bissyande, Mike Papadakis, Siegfried Rasthofer, Alexandre Ba
 
 Titcheu Chekam Thierry, Mike Papadakis, Yves Le Traon and Mark Harman, [“Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation that Avoids the Unreliable Clean Program Assumption”](/pdfs/ICSE2017.pdf), in the 39th International Conference on Software Engineering (ICSE), 2017, pp. 597-608.
 
-Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbens and Patrick Heymans. [“Automata Language Equivalence vs. Simulations for Model-based Mutant Equivalence: An Empirical Evaluation”]](/pdfs/ICST2017b.pdf), in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, pp. 424-429.
+Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbens and Patrick Heymans. [“Automata Language Equivalence vs. Simulations for Model-based Mutant Equivalence: An Empirical Evaluation”](/pdfs/ICST2017b.pdf), in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, pp. 424-429.
 
 Thomas Laurent, Mike Papadakis, Marinos Kintis, Christopher Henard, Yves Le Traon and Anthony Ventresque. [“Assessing and Improving the Mutation Testing Practice of PIT”](/pdfs/ICST2017.pdf), in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, 430-435.
 
