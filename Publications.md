@@ -180,39 +180,37 @@ Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le T
 
 ## 2012
 
-Mike Papadakis and Nicos Malevris, “Mutation based test case generation via a path selection strategy”, Information & Software Technology journal (IST), vol. 54, no. 9, 2012, pp. 915-932.
+Mike Papadakis and Nicos Malevris, [“Mutation based test case generation via a path selection strategy”](pdfs/IST2012.pdf), Information & Software Technology journal (IST), vol. 54, no. 9, 2012, pp. 915-932.
 
-Marinos Kintis, Mike Papadakis, and Nicos Malevris, “Isolating First Order Equivalent Mutants via Second Order Mutation”, in Software Testing, Verification, and Validation, International Conference on (ICST), 2012, pp. 701-710.
+Marinos Kintis, Mike Papadakis, and Nicos Malevris, [“Isolating First Order Equivalent Mutants via Second Order Mutation”](http://www0.cs.ucl.ac.uk/mutation2012/papers/4670a701.pdf), in Software Testing, Verification, and Validation, International Conference on (ICST), 2012, pp. 701-710.
 
-Mike Papadakis and Yves Le Traon, “Using Mutants to Locate ‘Unknown’ Faults”, in Software Testing, Verification, and Validation, International Conference on (ICST), 2012, pp. 691-700.
-
-Mike Papadakis and Nicos Malevris, “Killing Mutants Effectively a Search Based Approach”, in 10th Joint Conference on Knowledge-Based Software Engineering (JCKBSE), 2012, pp. 217-226.
+Mike Papadakis and Yves Le Traon, [“Using Mutants to Locate ‘Unknown’ Faults”](http://www0.cs.ucl.ac.uk/mutation2012/papers/4670a691.pdf), in Software Testing, Verification, and Validation, International Conference on (ICST), 2012, pp. 691-700.
 
 # 2011
 
 Mike Papadakis and Nicos Malevris. [“Automatically Performing Weak Mutation with the Aid of: Symbolic Execution, Concolic and Search Based Testing”](pdfs/SQJ2011.pdf), in Software Quality Journal (SQJ), vol. 19, no. 4, 2011, pp. 691-723.
 
-Mike Papadakis and Nicos Malevris. “Automatic Mutation based Test Data Generation”, in Annual conference on Genetic and evolutionary computation, (GECCO), 2011, pp. 247-248.
+Mike Papadakis and Nicos Malevris. [“Automatic Mutation based Test Data Generation”](pdfs/Gecco2011.pdf), in Annual conference on Genetic and evolutionary computation, (GECCO), 2011, pp. 247-248.
 
 ## 2010
 
-Mike Papadakis and Nicos Malevris. “Automatic Mutation Test Case Generation Via Dynamic Symbolic Execution”, in 21st International Symposium on Software Reliability Engineering (ISSRE) 2010, pp.121-130.
+Mike Papadakis and Nicos Malevris. [“Automatic Mutation Test Case Generation Via Dynamic Symbolic Execution”](pdfs/ISSRE2010.pdf), in 21st International Symposium on Software Reliability Engineering (ISSRE) 2010, pp.121-130.
 
-Marinos Kintis, Mike Papadakis and Nicos Malevris. “Evaluating Mutation Testing Alternatives: A Collateral Experiment”, in 17th Asia-Pacific Software Engineering Conference (APSEC), 2010, pp. 300-309.
+Marinos Kintis, Mike Papadakis and Nicos Malevris. [“Evaluating Mutation Testing Alternatives: A Collateral Experiment”](pdfs/apsec2010.pdf), in 17th Asia-Pacific Software Engineering Conference (APSEC), 2010, pp. 300-309.
 
-Mike Papadakis and Nicos Malevris. “A Symbolic Execution Tool Based on the Elimination of Infeasible Paths”, in Proceedings of the 5th International Conference on Software Engineering Advances (ICSEA’10), 2010, pp. 435-440.
+Mike Papadakis and Nicos Malevris. [“A Symbolic Execution Tool Based on the Elimination of Infeasible Paths”](pdfs/icsea2010.pdf), in Proceedings of the 5th International Conference on Software Engineering Advances (ICSEA’10), 2010, pp. 435-440.
 
-Mike Papadakis, Nicos Malevris and Maria Kallia. “Towards Automating the Generation of Mutation Tests”, in Proceedings of the 5th International Workshop on Automation of Software Test (AST), 2010, pp. 111-118.
+Mike Papadakis, Nicos Malevris and Maria Kallia. [“Towards Automating the Generation of Mutation Tests”](pdfs/AST2010.pdf), in Proceedings of the 5th International Workshop on Automation of Software Test (AST), 2010, pp. 111-118.
 
-Mike Papadakis and Nicos Malevris. “An Empirical Evaluation of the First and Second Order Mutation Testing Strategies”, in Proceedings of the 5th International Workshop on Mutation Analysis (MUTATION), 2010, pp. 90-99.
+Mike Papadakis and Nicos Malevris. [“An Empirical Evaluation of the First and Second Order Mutation Testing Strategies”](pdfs/mutation2010.pdf), in Proceedings of the 5th International Workshop on Mutation Analysis (MUTATION), 2010, pp. 90-99.
 
-Mike Papadakis, Nicos Malevris and Marinos Kintis. “Mutation Testing Strategies: A Collateral Approach”, in Proceedings of the 5th International Conference on Software and Data Technologies (ICSOFT), 2010, vol.2, pp. 325-328.
+Mike Papadakis, Nicos Malevris and Marinos Kintis. [“Mutation Testing Strategies: A Collateral Approach”](pdfs/ICSOFT2010.pdf), in Proceedings of the 5th International Conference on Software and Data Technologies (ICSOFT), 2010, vol.2, pp. 325-328.
 
 ## 2009
 
-Mike Papadakis and Nicos Malevris. “An Effective Path Selection Strategy for Mutation Testing”, in Proceedings of the 16th Asia-Pacific Software Engineering Conference (APSEC), 2009, pp. 422-429.
+Mike Papadakis and Nicos Malevris. [“An Effective Path Selection Strategy for Mutation Testing”](pdfs/apsec2009.pdf), in Proceedings of the 16th Asia-Pacific Software Engineering Conference (APSEC), 2009, pp. 422-429.
 
-Mike Papadakis and Nicos Malevris. “Improving Evolutionary Test Data Generation with the Aid of Symbolic Execution”, in Proceedings of the 2nd International Workshop on Artificial Intelligence Techniques in Software Engineering (AISEW), 2009, pp. 201-210.
+Mike Papadakis and Nicos Malevris. [“Improving Evolutionary Test Data Generation with the Aid of Symbolic Execution”](pdfs/AIAI2009.pdf), in Proceedings of the 2nd International Workshop on Artificial Intelligence Techniques in Software Engineering (AISEW), 2009, pp. 201-210.
 
 
 
