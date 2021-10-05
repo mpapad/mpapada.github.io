@@ -215,3 +215,10 @@ Mike Papadakis, Nicos Malevris and Marinos Kintis. “Mutation Testing Strategie
 Mike Papadakis and Nicos Malevris. “Improving Evolutionary Test Data Generation with the Aid of Symbolic Execution”, in Proceedings of the 2nd International Workshop on Artificial Intelligence Techniques in Software Engineering (AISEW), 2009, pp. 201-210.
 
 
+
+
+## Additional Material
+Further details about my work can be found in my DBLP and Google Scholar pages.    
+
+## Disclaimer
+This page contains personal archived (pre-print versions) articles published by IEEE, ACM, Elsevier, Springer, Wiley and other publishers. Copyright and all rights therein are retained by authors or by other copyright holders. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works, must be obtained from the copyright holder.
