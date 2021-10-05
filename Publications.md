@@ -99,7 +99,7 @@ Titcheu Chekam Thierry, Mike Papadakis, Yves Le Traon and Mark Harman, “Empiri
 
 Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbens and Patrick Heymans. “Automata Language Equivalence vs. Simulations for Model-based Mutant Equivalence: An Empirical Evaluation”, in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, pp. 424-429.
 
-Thomas Laurent, Mike Papadakis, Marinos Kintis, Christopher Henard, Yves Le Traon and Anthony Ven- tresque. “Assessing and Improving the Mutation Testing Practice of PIT”, in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, 430-435.
+Thomas Laurent, Mike Papadakis, Marinos Kintis, Christopher Henard, Yves Le Traon and Anthony Ventresque. “Assessing and Improving the Mutation Testing Practice of PIT”, in the 10th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2017, 430-435.
 
 Thomas Loise, Xavier Devroey, Gilles Perrouin, Mike Papadakis and Patrick Heymans. “Towards Security-aware Mutation Testing”, in the 12th International Workshop on Mutation Analysis (MUTATION), 2017, pp. 97-102.
 
@@ -165,28 +165,28 @@ Xavier Devroey, Gilles Perrouin, Maxime Cordy, Mike Papadakis, Axel Legay, and P
 
 ## 2013
 
-Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. “Towards Auto- mated Testing and Fixing of Re-engineered Feature Models”, in 35th International Conference on Software Engineering (ICSE ), New Ideas and Emerging Results track, 2013, pp. 1245-1248.
+Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. “Towards Automated Testing and Fixing of Re-engineered Feature Models”, in 35th International Conference on Software Engineering (ICSE ), New Ideas and Emerging Results track, 2013, pp. 1245-1248.
 
 Mike Papadakis and Yves Le Traon, “Mutation Testing Strategies using Mutant Classification”, in 28th ACM Symposium On Applied Computing (SAC), 2013, pp. 1223-1229.
-Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. “Assessing soft- ware product line testing via model-based mutation: An application to similarity testing”, in the 9th Workshop on Advances in Model Based Testing (A-MOST), ICST Workshops 2013 pp. 188-197.
+Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. “Assessing software product line testing via model-based mutation: An application to similarity testing”, in the 9th Workshop on Advances in Model Based Testing (A-MOST), ICST Workshops 2013 pp. 188-197.
 
 Mike Papadakis and Nicos Malevris. “Searching and generating test inputs for mutation testing”, in SpringerPlus Journal, vol. 2, 2013, pp. 121.
 
 Phu H. Nguyen, Mike Papadakis and Iram Rubab. “Testing Delegation Policy via Mutation Analysis”, in the 8th International Workshop on Mutation Analysis (MUTATION), ICST Workshops 2013, pp. 34-42.
 
-Mike Papadakis, Marcio Delamaro and Yves Le Traon, “Proteum/FL: a Mutation-based Fault Local- ization Tool”, in 13th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2013, pp. 85-90.
+Mike Papadakis, Marcio Delamaro and Yves Le Traon, “Proteum/FL: a Mutation-based Fault Localization Tool”, in 13th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2013, pp. 85-90.
 
 Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein and Yves Le Traon. “PLEDGE: A Product Line Editor and Test Generation Tool”, in 17th International Conference on Software Product Lines (SPLC) 2013, pp. 126-129.
 
 ## 2012
 
-Mike Papadakis and Nicos Malevris, “Mutation based test case generation via a path selection strat- egy”, Information & Software Technology journal (IST), vol. 54, no. 9, 2012, pp. 915-932.
+Mike Papadakis and Nicos Malevris, “Mutation based test case generation via a path selection strategy”, Information & Software Technology journal (IST), vol. 54, no. 9, 2012, pp. 915-932.
 
 Marinos Kintis, Mike Papadakis, and Nicos Malevris, “Isolating First Order Equivalent Mutants via Second Order Mutation”, in Software Testing, Verification, and Validation, International Conference on (ICST), 2012, pp. 701-710.
 
 Mike Papadakis and Yves Le Traon, “Using Mutants to Locate ‘Unknown’ Faults”, in Software Testing, Verification, and Validation, International Conference on (ICST), 2012, pp. 691-700.
 
-Mike Papadakis and Nicos Malevris, “Killing Mutants Effectively - a Search Based Approach”, in 10th Joint Conference on Knowledge - Based Software Engineering (JCKBSE), 2012, pp. 217-226.
+Mike Papadakis and Nicos Malevris, “Killing Mutants Effectively a Search Based Approach”, in 10th Joint Conference on Knowledge-Based Software Engineering (JCKBSE), 2012, pp. 217-226.
 
 # 2011
 
@@ -196,15 +196,15 @@ Mike Papadakis and Nicos Malevris. “Automatic Mutation based Test Data Generat
 
 ## 2010
 
-Mike Papadakis and Nicos Malevris. “Automatic Mutation Test Case Generation Via Dynamic Sym- bolic Execution”, in 21st International Symposium on Software Reliability Engineering (ISSRE) 2010, pp.121- 130.
+Mike Papadakis and Nicos Malevris. “Automatic Mutation Test Case Generation Via Dynamic Symbolic Execution”, in 21st International Symposium on Software Reliability Engineering (ISSRE) 2010, pp.121-130.
 
 Marinos Kintis, Mike Papadakis and Nicos Malevris. “Evaluating Mutation Testing Alternatives: A Collateral Experiment”, in 17th Asia-Pacific Software Engineering Conference (APSEC), 2010, pp. 300-309.
 
-Mike Papadakis and Nicos Malevris. “A Symbolic Execution Tool Based on the Elimination of Infeasi- ble Paths”, in Proceedings of the 5th International Conference on Software Engineering Advances (ICSEA’10), 2010, pp. 435-440.
+Mike Papadakis and Nicos Malevris. “A Symbolic Execution Tool Based on the Elimination of Infeasible Paths”, in Proceedings of the 5th International Conference on Software Engineering Advances (ICSEA’10), 2010, pp. 435-440.
 
 Mike Papadakis, Nicos Malevris and Maria Kallia. “Towards Automating the Generation of Mutation Tests”, in Proceedings of the 5th International Workshop on Automation of Software Test (AST), 2010, pp. 111-118.
 
-Mike Papadakis and Nicos Malevris. “An Empirical Evaluation of the First and Second Order Muta- tion Testing Strategies”, in Proceedings of the 5th International Workshop on Mutation Analysis (MUTATION), 2010, pp. 90-99.
+Mike Papadakis and Nicos Malevris. “An Empirical Evaluation of the First and Second Order Mutation Testing Strategies”, in Proceedings of the 5th International Workshop on Mutation Analysis (MUTATION), 2010, pp. 90-99.
 
 ## 2009
 
