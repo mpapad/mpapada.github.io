@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Contact Info
+title: Contact Info
 ---
 
 This is my first post, how exciting!
