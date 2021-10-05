@@ -18,22 +18,22 @@ Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack S
 
 ## 2020
 
-Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. [“Selecting Fault Revealing Mutants”](pdfs/EMSE2020), in Empirical Software Engineering Journal (EMSE), vol. 25(1), 2020, pp. 434-487.
+Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. [“Selecting Fault Revealing Mutants”](pdfs/EMSE2020.pdf), in Empirical Software Engineering Journal (EMSE), vol. 25(1), 2020, pp. 434-487.
 
-Wei Ma, Thomas Laurent, Milos Ojdanic, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. “Commit-Aware Mutation Testing”, in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2020, pp. 394-405.
+Wei Ma, Thomas Laurent, Milos Ojdanic, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. [“Commit-Aware Mutation Testing”](pdfs/ICSME2020.pdf), in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2020, pp. 394-405.
 
-Salah Ghamizi, Maxime Cordy, Martin Gubri, Mike Papadakis, Andrey Boystov, Yves Le Traon, Anne Goujon. “Search-Based Adversarial Testing and Improvement of Constrained Credit Scoring Systems”, in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2020, pp. 1089-1100.
+Salah Ghamizi, Maxime Cordy, Martin Gubri, Mike Papadakis, Andrey Boystov, Yves Le Traon, Anne Goujon. [“Search-Based Adversarial Testing and Improvement of Constrained Credit Scoring Systems”](pdfs/FSE2020.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2020, pp. 1089-1100.
 
-Zeyu Sun, Jie M. Zhang, Mark Harman, Mike Papadakis, Lu Zhang, “Automatic Testing and Improvement of Machine Translation”, in the 42nd International Conference on Software Engineering (ICSE), 2020, pp. 974-985.
+Zeyu Sun, Jie M. Zhang, Mark Harman, Mike Papadakis, Lu Zhang, [“Automatic Testing and Improvement of Machine Translation”](pdfs/ICSE2020.pdf), in the 42nd International Conference on Software Engineering (ICSE), 2020, pp. 974-985.
 
-Salah Ghamizi, Renaud Rwemalika, Maxime Cordy, Lisa Veiber, Tegawend F. Bissyand, Mike Papadakis, Jacques Klein and Yves Le Traon. “Data-driven Simulation and Optimization for Covid-19 Exit-Strategies”, 26th SIGKDD conference on Knowledge Discovery and Data Mining, (KDD), AI for COVID, 2020, pp. 3434-3442.
+Salah Ghamizi, Renaud Rwemalika, Maxime Cordy, Lisa Veiber, Tegawend F. Bissyand, Mike Papadakis, Jacques Klein and Yves Le Traon. [“Data-driven Simulation and Optimization for Covid-19 Exit-Strategies”](pdfs/KDD2020.pdf), 26th SIGKDD conference on Knowledge Discovery and Data Mining, (KDD), AI for COVID, 2020, pp. 3434-3442.
 
-Maxime Cordy, Mike Papadakis and Axel Legay, “Statistical Model Checking for Variability-Intensive Systems”, in the 23rd International Conference on Fundamental Approaches to Software Engineering (FASE), 2020, pp. 294-314.
+Maxime Cordy, Mike Papadakis and Axel Legay, [“Statistical Model Checking for Variability-Intensive Systems”](pdfs/FASE2020.pdf), in the 23rd International Conference on Fundamental Approaches to Software Engineering (FASE), 2020, pp. 294-314.
 
-Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. “FeatureNET: Diversity-driven Generation of Deep Learning Models”, in the 42nd International Conference on Software Engineering (ICSE), 2020, pp. 41-44.
+Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“FeatureNET: Diversity-driven Generation of Deep Learning Models”](pdfs/ICSE-Tool2020.pdf), in the 42nd International Conference on Software Engineering (ICSE), 2020, pp. 41-44.
 
 ## 2019
-Mike Papadakis, Marinos Kintis, Jie Zhang, Yue Jia, Yves Le Traon and Mark Harman, “Mutation Testing Advances: An Analysis and Survey”, in Advances in Computers, Elsevier, Vol. 112, pp. 275-378, doi https://doi.org/10.1016/bs.adcom.2018.03.015, 2019.
+Mike Papadakis, Marinos Kintis, Jie Zhang, Yue Jia, Yves Le Traon and Mark Harman, [“Mutation Testing Advances: An Analysis and Survey”](pdfs/MutationSurvey2019.pdf), in Advances in Computers, Elsevier, Vol. 112, pp. 275-378, doi https://doi.org/10.1016/bs.adcom.2018.03.015, 2019.
 
 Donghwan Shin, Shin Yoo, Mike Papadakis, Doo-Hwan Bae. “Empirical Evaluation of Mutation-based Test Case Prioritization Techniques”, in Software Testing, Verification and Reliability Journal (STVR), vol. 29, 2019, pp. e1695.
 
