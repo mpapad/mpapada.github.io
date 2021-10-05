@@ -190,7 +190,7 @@ Mike Papadakis and Nicos Malevris, “Killing Mutants Effectively a Search Based
 
 # 2011
 
-Mike Papadakis and Nicos Malevris. “Automatically Performing Weak Mutation with the Aid of: Symbolic Execution, Concolic and Search Based Testing”, in Software Quality Journal (SQJ), vol. 19, no. 4, 2011, pp. 691-723.
+Mike Papadakis and Nicos Malevris. [“Automatically Performing Weak Mutation with the Aid of: Symbolic Execution, Concolic and Search Based Testing”](pdfs/SQJ2011.pdf), in Software Quality Journal (SQJ), vol. 19, no. 4, 2011, pp. 691-723.
 
 Mike Papadakis and Nicos Malevris. “Automatic Mutation based Test Data Generation”, in Annual conference on Genetic and evolutionary computation, (GECCO), 2011, pp. 247-248.
 
