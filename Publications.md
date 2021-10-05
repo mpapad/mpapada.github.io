@@ -143,23 +143,23 @@ Christopher Henard, Mike Papadakis, Yves Le Traon. “Flattening or not of the c
 
 ## 2014
 
-Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein, Patrick Heymans and Yves Le Traon, “Bypassing the Combinatorial Explosion: Using Similarity to Generate and Prioritize T-wise Test Configurations for Software Product Lines”, in IEEE Transactions on Software Engineering Journal (TSE), vol. 40, no. 7, 2014, pp. 650-670.
+Christopher Henard, Mike Papadakis, Gilles Perrouin, Jacques Klein, Patrick Heymans and Yves Le Traon, [“Bypassing the Combinatorial Explosion: Using Similarity to Generate and Prioritize T-wise Test Configurations for Software Product Lines”](pdfs/tse2014.pdf), in IEEE Transactions on Software Engineering Journal (TSE), vol. 40, no. 7, 2014, pp. 650-670.
 
-Mike Papadakis, Marcio Delamaro and Yves Le Traon, “Mitigating the Effects of Equivalent Mutants with Mutant Classification Strategies”, in Science of Computer Programming Journal (SCP), vol. 95, 2014, pp. 298-319.
+Mike Papadakis, Marcio Delamaro and Yves Le Traon, [“Mitigating the Effects of Equivalent Mutants with Mutant Classification Strategies”](pdfs/SCP2014.pdf), in Science of Computer Programming Journal (SCP), vol. 95, 2014, pp. 298-319.
 
-Christopher Henard, Mike Papadakis and Yves Le Traon. “Mutation-based Generation of Software Product Line Test Configurations”, in Symposium on Search-Based Software Engineering (SSBSE), 2014, pp. 92-106.
+Christopher Henard, Mike Papadakis and Yves Le Traon. [“Mutation-based Generation of Software Product Line Test Configurations”](pdfs/ssbse14.pdf), in Symposium on Search-Based Software Engineering (SSBSE), 2014, pp. 92-106.
 
-Mike Papadakis, Christopher Henard, and Yves Le Traon, “Sampling Program Inputs with Mutation Analysis: Going Beyond Combinatorial Interaction Testing”, in Software Testing, Verification, and Validation, International Conference on (ICST), 2014, pp. 1-10.
+Mike Papadakis, Christopher Henard, and Yves Le Traon, [“Sampling Program Inputs with Mutation Analysis: Going Beyond Combinatorial Interaction Testing”](pdfs/icst2014-CITMUT.pdf), in Software Testing, Verification, and Validation, International Conference on (ICST), 2014, pp. 1-10.
 
-Mike Papadakis and Yves Le Traon, “Effective Fault Localization via Mutation Analysis: A Selective Mutation Approach”, in 29th ACM Symposium On Applied Computing (SAC), 2014, pp. 1293-1300.
+Mike Papadakis and Yves Le Traon, [“Effective Fault Localization via Mutation Analysis: A Selective Mutation Approach”](pdfs/sac2014-FL.pdf), in 29th ACM Symposium On Applied Computing (SAC), 2014, pp. 1293-1300.
 
-Tewfik Ziadi, Christopher Henard, Mike Papadakis, Yves Le Traon and Mikal Ziane, “Towards a Language-Independent Approach for Reverse-Engineering of Software Product Lines”, in 29th ACM Symposium On Applied Computing (SAC), 2014, 1064-1071.
+Tewfik Ziadi, Christopher Henard, Mike Papadakis, Yves Le Traon and Mikal Ziane, [“Towards a Language-Independent Approach for Reverse-Engineering of Software Product Lines”](pdfs/sac2014-extractorpl.pdf), in 29th ACM Symposium On Applied Computing (SAC), 2014, 1064-1071.
 
-Francisco Carlos Souza, Mike Papadakis, Vincius Durelli and Marcio Eduardo Delamaro. ”Techniques for Test Data Generation for Mutation Testing: A Systematic Mapping”, in the XVII Ibero-American Conference on Software Engineering (CIBSE), 2014, pp. 419-432.
+Francisco Carlos Souza, Mike Papadakis, Vincius Durelli and Marcio Eduardo Delamaro. [”Techniques for Test Data Generation for Mutation Testing: A Systematic Mapping”](pdfs/eselaw2014.pdf), in the XVII Ibero-American Conference on Software Engineering (CIBSE), 2014, pp. 419-432.
 
-Christopher Henard, Mike Papadakis and Yves Le Traon. “MutaLog: a Tool for Mutating Logic Formulas”, in 7th International Conference on Software Testing, Verification and Validation Workshops (ICSTW), 2014, pp. 399-404.
+Christopher Henard, Mike Papadakis and Yves Le Traon. [“MutaLog: a Tool for Mutating Logic Formulas”](pdfs/icst2014_MUTLOG.pdf), in 7th International Conference on Software Testing, Verification and Validation Workshops (ICSTW), 2014, pp. 399-404.
 
-Xavier Devroey, Gilles Perrouin, Maxime Cordy, Mike Papadakis, Axel Legay, and Pierre-Yves Schobbens. “A Variability Perspective of Mutation Analysis”, in 22nd ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE), Visions and Challenges track, 2014, pp. 841-844.
+Xavier Devroey, Gilles Perrouin, Maxime Cordy, Mike Papadakis, Axel Legay, and Pierre-Yves Schobbens. [“A Variability Perspective of Mutation Analysis”](pdfs/fse14vc_vcid11_Devroey_VariabilityPerspectiveMutation.pdf), in 22nd ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE), Visions and Challenges track, 2014, pp. 841-844.
 
 ## 2013
 
