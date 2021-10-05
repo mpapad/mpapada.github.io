@@ -105,25 +105,25 @@ Thomas Loise, Xavier Devroey, Gilles Perrouin, Mike Papadakis and Patrick Heyman
 
 ## 2016
 
-Mike Papadakis, Christopher Henard, Mark Harman, Yue Jia, and Yves Le Traon. “Threats to Validity of Mutation-Based Test Assessment”, in the International Symposium on Software Testing and Analysis (ISSTA), 2016, pp. 354-365.
+Mike Papadakis, Christopher Henard, Mark Harman, Yue Jia, and Yves Le Traon. [“Threats to Validity of Mutation-Based Test Assessment”](pdfs/ISSTA2016.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2016, pp. 354-365.
 
-Henry Coles, Thomas Laurent, Christopher Henard, Mike Papadakis, Anthony Ventresque. “PIT a Practical Mutation Testing Tool for Java (Demo)”, in the International Symposium on Software Testing and Analysis (ISSTA), 2016, pp. 449-452.
+Henry Coles, Thomas Laurent, Christopher Henard, Mike Papadakis, Anthony Ventresque. [“PIT a Practical Mutation Testing Tool for Java (Demo)”](pdfs/ISSTA-tool2016.pdf), in the International Symposium on Software Testing and Analysis (ISSTA), 2016, pp. 449-452.
 
-Christopher Henard, Mike Papadakis, Mark Harman, Yue Jia, and Yves Le Traon. “Comparing White-box and Black-box Test Prioritization”, in the 38th International Conference on Software Engineering (ICSE), 2016, pp. 523-534.
+Christopher Henard, Mike Papadakis, Mark Harman, Yue Jia, and Yves Le Traon. [“Comparing White-box and Black-box Test Prioritization”](pdfs/ICSE2016.pdf), in the 38th International Conference on Software Engineering (ICSE), 2016, pp. 523-534.
 
-Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbens and Patrick Heymans. “Featured Model-based Mutation Analysis”, in the 38th International Conference on Software Engineering (ICSE), 2016, pp. 655-666.
+Xavier Devroey, Gilles Perrouin, Mike Papadakis, Axel Legay, Pierre-Yves Schobbens and Patrick Heymans. [“Featured Model-based Mutation Analysis”](pdfs/ICSE2016B.pdf), in the 38th International Conference on Software Engineering (ICSE), 2016, pp. 655-666.
 
-Matthieu Jimenez, Mike Papadakis and Yves Le Traon. “Vulnerability Prediction Models: A case study on the Linux Kernel”, in 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2016, pp. 1-10.
+Matthieu Jimenez, Mike Papadakis and Yves Le Traon. [“Vulnerability Prediction Models: A case study on the Linux Kernel”](pdfs/SCAM2016.pdf), in 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2016, pp. 1-10.
 
-Marinos Kintis, Mike Papadakis, Andreas Papadopoulos, Evangelos Valvis and Nicos Malevris. “Analysing and Comparing the Effectiveness of Mutation Testing Tools: A Manual Study”, in 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2016 pp. 147-156.
+Marinos Kintis, Mike Papadakis, Andreas Papadopoulos, Evangelos Valvis and Nicos Malevris. [“Analysing and Comparing the Effectiveness of Mutation Testing Tools: A Manual Study”](pdfs/SCAM2016B.pdf), in 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2016 pp. 147-156.
 
-Matthieu Jimenez, Mike Papadakis, Tegawende F. Bissyande, and Jacques Klein, “Profiling Android Vulnerabilities”, in International Conference on Software Quality, Reliability and Security (QRS), 2016, pp. 222-229.
+Matthieu Jimenez, Mike Papadakis, Tegawende F. Bissyande, and Jacques Klein, [“Profiling Android Vulnerabilities”](pdfs/QRS2016.pdf), in International Conference on Software Quality, Reliability and Security (QRS), 2016, pp. 222-229.
 
-Matthieu Jimenez, Mike Papadakis and Yves Le Traon. “An Empirical Analysis of Vulnerabilities in OpenSSL and the Linux Kernel”, in 23rd Asia-Pacific Software Engineering Conference (APSEC), 2016, pp. 105-112.
+Matthieu Jimenez, Mike Papadakis and Yves Le Traon. [“An Empirical Analysis of Vulnerabilities in OpenSSL and the Linux Kernel”](pdfs/APSEC2016.pdf), in 23rd Asia-Pacific Software Engineering Conference (APSEC), 2016, pp. 105-112.
 
-Jabier Martinez, Tewfik Ziadi, Mike Papadakis, Tegawende. F Bissyande, Jacques Klein and Yves Le Traon. “Feature Location Benchmark for Software Families using Eclipse Community Releases”, in the 15th International Conference on Software Reuse (ICSR16), 2016, pp. 267-283.
+Jabier Martinez, Tewfik Ziadi, Mike Papadakis, Tegawende. F Bissyande, Jacques Klein and Yves Le Traon. [“Feature Location Benchmark for Software Families using Eclipse Community Releases”]](pdfs/ICSR2016.pdf), in the 15th International Conference on Software Reuse (ICSR16), 2016, pp. 267-283.
 
-Francisco Carlos M. Souza, Mike Papadakis, Yves Le Traon and Marcio Eduardo Delamaro. “Strong Mutation-Based Test Data Generation using Hill Climbing”, in the 9th International Workshop on Search-Based Software Testing (SBST), 2016, pp. 45-54.
+Francisco Carlos M. Souza, Mike Papadakis, Yves Le Traon and Marcio Eduardo Delamaro. [“Strong Mutation-Based Test Data Generation using Hill Climbing”](pdfs/SSBSE2016.pdf), in the 9th International Workshop on Search-Based Software Testing (SBST), 2016, pp. 45-54.
 
 ## 2015
 
