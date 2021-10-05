@@ -123,7 +123,7 @@ Matthieu Jimenez, Mike Papadakis and Yves Le Traon. [“An Empirical Analysis of
 
 Jabier Martinez, Tewfik Ziadi, Mike Papadakis, Tegawende. F Bissyande, Jacques Klein and Yves Le Traon. [“Feature Location Benchmark for Software Families using Eclipse Community Releases”](pdfs/ICSR2016.pdf), in the 15th International Conference on Software Reuse (ICSR16), 2016, pp. 267-283.
 
-Francisco Carlos M. Souza, Mike Papadakis, Yves Le Traon and Marcio Eduardo Delamaro. [“Strong Mutation-Based Test Data Generation using Hill Climbing”](pdfs/SSBSE2016.pdf), in the 9th International Workshop on Search-Based Software Testing (SBST), 2016, pp. 45-54.
+Francisco Carlos M. Souza, Mike Papadakis, Yves Le Traon and Marcio Eduardo Delamaro. [“Strong Mutation-Based Test Data Generation using Hill Climbing”](pdfs/SBST2016.pdf), in the 9th International Workshop on Search-Based Software Testing (SBST), 2016, pp. 45-54.
 
 ## 2015
 
