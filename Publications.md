@@ -206,11 +206,11 @@ Mike Papadakis, Nicos Malevris and Maria Kallia. “Towards Automating the Gener
 
 Mike Papadakis and Nicos Malevris. “An Empirical Evaluation of the First and Second Order Mutation Testing Strategies”, in Proceedings of the 5th International Workshop on Mutation Analysis (MUTATION), 2010, pp. 90-99.
 
+Mike Papadakis, Nicos Malevris and Marinos Kintis. “Mutation Testing Strategies: A Collateral Approach”, in Proceedings of the 5th International Conference on Software and Data Technologies (ICSOFT), 2010, vol.2, pp. 325-328.
+
 ## 2009
 
 Mike Papadakis and Nicos Malevris. “An Effective Path Selection Strategy for Mutation Testing”, in Proceedings of the 16th Asia-Pacific Software Engineering Conference (APSEC), 2009, pp. 422-429.
-
-Mike Papadakis, Nicos Malevris and Marinos Kintis. “Mutation Testing Strategies: A Collateral Approach”, in Proceedings of the 5th International Conference on Software and Data Technologies (ICSOFT), 2010, vol.2, pp. 325-328.
 
 Mike Papadakis and Nicos Malevris. “Improving Evolutionary Test Data Generation with the Aid of Symbolic Execution”, in Proceedings of the 2nd International Workshop on Artificial Intelligence Techniques in Software Engineering (AISEW), 2009, pp. 201-210.
 
