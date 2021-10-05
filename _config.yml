@@ -26,7 +26,7 @@ navbar-links:
   Mutation Testing: "Mutation"
   Tools and Data Sets: "Tools"
   Students: "Students"
-  Contact: "Contact"
+  Contact: "Contact/"
   PhD and RA Positions: "Positions"
 
 # Image to show in the navigation bar - image must be a square (width = height)
