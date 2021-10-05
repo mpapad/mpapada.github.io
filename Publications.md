@@ -18,7 +18,7 @@ Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Evasion Attack S
 
 ## 2020
 
-Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. “Selecting Fault Revealing Mutants”, in Empirical Software Engineering Journal (EMSE), vol. 25(1), 2020, pp. 434-487.
+Thierry Titcheu Chekam, Mike Papadakis, Tegawende Bissyande, Yves Le Traon and Koushik Sen. [“Selecting Fault Revealing Mutants”](pdfs/EMSE2020), in Empirical Software Engineering Journal (EMSE), vol. 25(1), 2020, pp. 434-487.
 
 Wei Ma, Thomas Laurent, Milos Ojdanic, Thierry Titcheu Chekam, Anthony Ventresque, Mike Papadakis. “Commit-Aware Mutation Testing”, in 36th IEEE International Conference on Software Maintenance and Evolution (ICSME), 2020, pp. 394-405.
 
