@@ -3,7 +3,7 @@ layout: post
 title: Projects
 ---
 
-## TestFlakes: “Copying with Test Flakiness”. Fonds National de la Researche Luxembourg.
+## TestFlakes: “Copying with Test Flakiness”. Fonds National de la Researche Luxembourg - CORE.
 
 This is an FNR CORE funding, supporting two PhD students and a PostDoc. The project is about developing techniques and tools capable of maximising the testing value in the presence of test false alarms in the context of continuous integration. In particular, the project will identify the problems caused by the test suite non-determinism and will built techniques capable of copying with this issue (operate and provide decision making under uncertainty). In summary, the goal of the project is:
 a) to investigate the impact of non-determinism on testing (what is impacted and how)
