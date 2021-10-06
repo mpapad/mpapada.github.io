@@ -6,34 +6,34 @@ title: Peer Esteem
 Facebook Research Award Finalist at the Facebook 2021 RFP on “agent-based user interaction simulation to find and fix integrity and privacy issues” - Project “Refining state equiv-
 alence relations for effective metamorphic testing” https://research.fb.com/blog/2021/09/announcing-the-winners-of-the-2021-rfp-on-agent-based-user-interaction-simulation-to-find-and-
 
-Most Impactful Software Engineering Researcher. A bibliometric study by Wong et al. “A bibliometric assessment of software engineering themes, scholars and institutions (2013- 2020)”, Journal of Systems and Software, June 2021, ranks me among the top-20 “Most Impactful” consolidator stage Software Engineering researchers.
+**Most Impactful Software Engineering Researcher.** A bibliometric study by Wong et al. “A bibliometric assessment of software engineering themes, scholars and institutions (2013-2020)”, Journal of Systems and Software, June 2021, ranks me among the top-20 “Most Impactful” consolidator stage Software Engineering researchers.
 
-IEEE TCSE Rising Star Award. IEEE Computer Society Technical Council on Software Engineering (TCSE) 2020.
+**IEEE TCSE Rising Star Award.** IEEE Computer Society Technical Council on Software Engineering (TCSE) 2020.
 
-Distinguished Paper Award (IEEE TCSE) at the 36th International Conference on Software Maintenance and Evolution (ICSME’20). Paper title: “Commit-Aware Mutation Testing”.
+**Distinguished Paper Award (IEEE TCSE)** at the 36th International Conference on Software Maintenance and Evolution (ICSME’20). Paper title: “Commit-Aware Mutation Testing”.
 
-Best Paper Award for the 26th SIGKDD conference on Knowledge Discovery and Data Mining, (KDD’20), AI for COVID track. Paper title: “Data-driven Simulation and Optimization for Covid-19 Exit Strategies”.
+**Best Paper Award for the 26th SIGKDD conference on Knowledge Discovery and Data Mining**, (KDD’20), AI for COVID track. Paper title: “Data-driven Simulation and Optimization for Covid-19 Exit Strategies”.
 
-Facebook Research Award at the Facebook Testing and Verification 2019 - Project “Detecting flaky test failures of system user interactive tests”.
+**Facebook Research Award** at the Facebook Testing and Verification 2019 - Project “Detecting flaky test failures of system user interactive tests”.
 
-Distinguished Paper Award (ACM SIGSOFT) at the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’19). Paper title: “An Empirical Study on Vulnerability Prediction of Open-Source Software Releases”.
+**Distinguished Paper Award (ACM SIGSOFT)** at the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE’19). Paper title: “An Empirical Study on Vulnerability Prediction of Open-Source Software Releases”.
 
-Distinguished Artifact Award (ACM SIGSOFT) at the 28th ACM International Symposium on Software Testing and Analysis (ISSTA’19). Paper title: “Semantic Fuzzing with Zest”.
+**Distinguished Artifact Award (ACM SIGSOFT)** at the 28th ACM International Symposium on Software Testing and Analysis (ISSTA’19). Paper title: “Semantic Fuzzing with Zest”.
 
-Distinguished Artifact Award (ACM SIGSOFT) at the 28th ACM International Symposium on Software Testing and Analysis (ISSTA’19). Paper title: “Search-based Test and Improvement of Machine-Learning-Based Anomaly Detection Systems”.
+**Distinguished Artifact Award (ACM SIGSOFT)** at the 28th ACM International Symposium on Software Testing and Analysis (ISSTA’19). Paper title: “Search-based Test and Improvement of Machine-Learning-Based Anomaly Detection Systems”.
 
-Distinguished Reviewer Award at the 12th IEEE International Conference on Software Testing (ICST’19).
+**Distinguished Reviewer Award** at the 12th IEEE International Conference on Software Testing (ICST’19).
 
-Top Scholar in Software Engineering a bibliometric study (Karanatsiou et al. Journal of Systems and Software, October 2018), ranks me among the “Top Scholars” in Software Engineering and among the top-5 most impactful early stage researchers.
+**Top Scholar in Software Engineering** a bibliometric study (Karanatsiou et al. Journal of Systems and Software, October 2018), ranks me among the “Top Scholars” in Software Engineering and among the top-5 most impactful early stage researchers.
 
-Best Paper Award at the 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM’16). Paper title: “Analysing and Comparing the Effectiveness of Mutation Testing Tools: A Manual Study”.
+**Best Paper Award at the 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM’16)**. Paper title: “Analysing and Comparing the Effectiveness of Mutation Testing Tools: A Manual Study”.
 
-Microsoft Azure Research Award. Microsoft Azure 2015 - Project “Mutation-Based Testing and Debugging in Microsoft Azure”.
+**Microsoft Azure Research Award.** Microsoft Azure 2015 - Project “Mutation-Based Testing and Debugging in Microsoft Azure”.
 
-Honor (performance) Scholarship, MSc in Computer Science ( 2003 - 2004 ). 
+Honor (performance) **Scholarship**, MSc in Computer Science ( 2003 - 2004 ). 
 
 ## Keynotes
-3rd ACNS Workshop on Security in Machine Learning and its Applications (SiMLA 2021), “Adversarial Attacks in ML-Enabled Systems”, 21-24 June 2021 - Kamakura, Japan. https: //asset-group.github.io/simla2021/.
+3rd ACNS Workshop on Security in Machine Learning and its Applications (SiMLA 2021), “Adversarial Attacks in ML-Enabled Systems”, 21-24 June 2021 - Kamakura, Japan. https://asset-group.github.io/simla2021/.
 
 Mutation Testing workshop (MUTATION 2020): Keynote talk, title “Continuous Mutation Testing”, October 24th, 2020, https://mutation-workshop.github.io/2020/.
 
