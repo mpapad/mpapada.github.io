@@ -6,7 +6,7 @@ title: Publications
 ## 2021
 Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. [“Killing Stubborn Mutants with Symbolic Execution”](pdfs/TOSEM2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
 
-Wei Ma, Mike Papadakis, Anestis Tsakmalis, Maxime Cordy, Yves Le Traon. [“Test Selection for Deep Learning Systems”](pdfs/TOSEMB2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 13:1-13:22.
+Wei Ma, Mike Papadakis, Anestis Tsakmalis, Maxime Cordy, Yves Le Traon. [“Test Selection for Deep Learning Systems”](pdfs/TOSEM2021B.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 13:1-13:22.
 
 Wei Ma, Thierry Titcheu Chekam, Mike Papadakis, Mark Harman. [“MuDelta: Delta-Oriented Mutation Testing at Commit Time”](pdfs/ICSE2021.pdf), in the 43rd International Conference on Software Engineering (ICSE), 2021, pp. 897-909.
 
@@ -37,7 +37,7 @@ Thierry Titcheu Chekam, Mike Papadakis and Yves Le Traon, [“Muteria: An Extens
 ## 2019
 Mike Papadakis, Marinos Kintis, Jie Zhang, Yue Jia, Yves Le Traon and Mark Harman, [“Mutation Testing Advances: An Analysis and Survey”](pdfs/MutationSurvey2019.pdf), in Advances in Computers, Elsevier, Vol. 112, pp. 275-378, doi https://doi.org/10.1016/bs.adcom.2018.03.015, 2019.
 
-Donghwan Shin, Shin Yoo, Mike Papadakis, Doo-Hwan Bae. [“Empirical Evaluation of Mutation-based Test Case Prioritization Techniques”](pdfs/STVR2019.pdf), in Software Testing, Verification and Reliability Journal (STVR), vol. 29, 2019, pp. e1695.
+Donghwan Shin, Shin Yoo, Mike Papadakis, Doo-Hwan Bae. [“Empirical Evaluation of Mutation-based Test Case Prioritization Techniques”](pdfs/STVR2018.pdf), in Software Testing, Verification and Reliability Journal (STVR), vol. 29, 2019, pp. e1695.
 
 Thierry Titcheu Chekam, Mike Papadakis, and Yves Le Traon. [“Mart: A Mutant Generation Tool for LLVM”](pdfs/FSE2019-Tool.pdf), in the Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (FSE)-Demo, 2019, pp. 1080-1084.
 
@@ -59,7 +59,7 @@ Maxime Cordy, Steve Muller, Mike Papadakis and Yves Le Traon. [“Search-based T
 
 Renaud Rwemalika, Marinos Kintis, Mike Papadakis, Yves Le Traon and Pierre Lorrach. [“On the Evolution of Keyword-Driven Test Suites”](pdfs/ICST2019.pdf), in the 12th International Conference on Software Testing (ICST), 2019, pp. 335-345.
 
-Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Validity fuzzing and parametric generators for effective random testing”](pdfs/.pdf), in the 41st International Conference on Software Engineering (ICSE), 2019, pp. 266-267.
+Rohan Padhye, Caroline Lemieux, Koushik Sen, Mike Papadakis and Yves Le Traon. [“Validity fuzzing and parametric generators for effective random testing”](https://mpapad.github.io/Publications/), in the 41st International Conference on Software Engineering (ICSE), 2019, pp. 266-267.
 
 ## 2018
 
