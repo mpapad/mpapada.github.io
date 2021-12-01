@@ -2,9 +2,11 @@
 layout: post
 title: Publications
 ---
+## 2022
+Salah Ghamizi, Maxime Cordy, Mike Papadakis, Yves Le Traon. [“Adversarial Robustness in Multi-Task Learning: Promises and Illusions”](), in the 36th AAAI Conference on Artificial Intelligence (AAAI) 2022.
 
 ## 2021
-Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. [“Killing Stubborn Mutants with Symbolic Execution”](pdfs/TOSEM2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23
+Thierry Titcheu Chekam, Mike Papadakis, Maxime Cordy, Yves Le Traon. [“Killing Stubborn Mutants with Symbolic Execution”](pdfs/TOSEM2021.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 19:1-19:23.
 
 Wei Ma, Mike Papadakis, Anestis Tsakmalis, Maxime Cordy, Yves Le Traon. [“Test Selection for Deep Learning Systems”](pdfs/TOSEM2021B.pdf), in ACM Transactions on Software Engineering and Methodology Journal (TOSEM), vol 30(2), 2021, pp. 13:1-13:22.
 
